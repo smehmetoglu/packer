@@ -11,7 +11,7 @@ autoinstall:
   identity:
     {
       hostname: ubuntutemplate,
-      password: 4b8f353889d9a05d17946e26d014efe99407cba8bd9d0102d4aab10ce6229043,
+      password: password01,
       realname: SelahattinMEHMETOGLU,
       username: selahattin,
     }
